@@ -80,7 +80,7 @@ clean your city:
 recorded music
 
 - lazy -> stay at home, don't want to move too much
-- alone -> too much people in the live concert
+- alone -> do whatever I want while listening to music; relax -> too much people in the live concert; uncomfortable
 
 ---
 
