@@ -3,7 +3,7 @@
 Everday practicing:
 - [Daily Plan in Rachel's English Academy](https://www.rachelsenglishacademy.com/enrollments?collection_id=139464)
 - Speak out loud of articles
-- Speak English mentally and using complete sentences
+- Speak English mentally using complete sentences
 
 
 
