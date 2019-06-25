@@ -249,5 +249,15 @@ research assistant
 
 ## Shy
 
-same workflow
+don't want to contact others; feel embarrassed easily;  afraid of speaking in public;
+
+22.	you like to be the most:
+1.	lawyer
+2.	restaurant owner
+3.	vet
+
+- love animals -> like to play with them -> feel satisfied when cure them
+- shy -> don't want to contact others -> feel comfortable only stay with pets
+
+
 
