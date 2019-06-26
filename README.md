@@ -13,7 +13,9 @@ The logic structure of an English answer is:
     D, A -> B -> C
  
  D - conclusion
+ 
  A - the "root" reason
+ 
  B, C - intermediate reasons
 
 [口說「如何發展和解釋答案」？](http://sk2toefl.blogspot.com/p/earnest-toeflibt-tue-feb-2-232420-2016.html)
