@@ -28,6 +28,31 @@ Just like the mind map, and note that the content in one circle just needs to be
 
 [口說一二題如何發展例子：Word Bank](http://sk2toefl.blogspot.com/p/david_20.html)
 
+---
+
+From [this article](http://sk2toefl.blogspot.com/p/blog-page_28.html):
+
+排比法和對比法是我思考答案時，很常用的策略，
+如果你習慣舉出兩個理由，那我便建議你舉出兩個重要性均等、互相對立的理由，答案聽起來便兼顧了一體的兩面，
+常用的幾個對比是 
+
+nature/culture, time/space, individual/society, past/future
+
+> Q1: Talk about a popular gathering place in your town where people like to go.
+    Describe the place and explain why people enjoy going there.
+
+```
+A popular gathering place in my town where people love to go is my university.
+People love to gather there because its classes are open to the public and the
+place is surrounded by city parks, so it provides natural green areas for
+people to get together and chill while also serves as a cultural platform for
+people to discuss issues and to be challenged intellectually. (...)
+```
+
+Q3- Q6則更應該注意回答content 的切題度、內文邏輯，結果往往重於完整的過程描述，因為時間不夠，過程可以不用詳細描述，結果則一定要提出，
+只要最後的結果邏輯上能和概念連得起來，這題便切題了。
+
+
 
 [口說三～六題練習建議](http://sk2toefl.blogspot.com/p/blog-page_95.html)
 
