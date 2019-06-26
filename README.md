@@ -56,3 +56,8 @@ Q3- Q6則更應該注意回答content 的切題度、內文邏輯，結果往往
 
 [口說三～六題練習建議](http://sk2toefl.blogspot.com/p/blog-page_95.html)
 
+
+
+[寫作滿分的關鍵祕密Part 1：主題句](http://sk2toefl.blogspot.com/2013/12/part-1.html)
+
+[寫作滿分的關鍵祕密：學會辨識低分例子](http://sk2toefl.blogspot.com/2013/11/blog-post_25.html)
