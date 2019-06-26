@@ -261,3 +261,18 @@ don't want to contact others; feel embarrassed easily;  afraid of speaking in pu
 
 
 
+---
+
+2. Which of the following creative activities do you feel like to get involved in?
+
+    1. Pottery making
+    2. Writing
+    3. Art creation
+    
+    
+Writing
+
+- freely express my feeling using words, and can easily widespread my thoughts & feelings on the Internet
+- improve my writing skills, important in academic research and daily life
+
+    
