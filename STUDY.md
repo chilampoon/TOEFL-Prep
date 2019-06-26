@@ -5,6 +5,10 @@
 - What to be studied
 
 
+## Student
+creative, express themselves, have fun
+
+
 ## How do I study
 night owl, learn by myself, 
 
