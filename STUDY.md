@@ -80,7 +80,8 @@ __ Here need to define what is efficient first__ ==> get focused
     2.	to exercise
     3.	to go shopping
 
-
+63.	Talk about an activity you would like to do with your friends, rather than by yourself
+ --> to go shopping
 
 do them alone will get better score
 
