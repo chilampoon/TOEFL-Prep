@@ -14,7 +14,7 @@ JJ
 - like coding
 
 ## **Lazy**
-don't want to move, don't want to do too much, don't use my brain, don't consider much
+don't want to move, don't want to do too much, don't use my brain, don't consider much, saves a lot of effort
 
 3. prefer send information msg
     1. via email
