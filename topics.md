@@ -7,6 +7,7 @@
 - Economic Globalization
 - Environmental degradation
 - Sub-replacement fertility （少子化）
+- Rise of concerns of equal rights: LGBTQIA, gender, race, animal (in zoo)...
 
 #### Past
 the opposite of those in __now__
@@ -34,6 +35,14 @@ _A responsible person accepts the consequences of his or her own actions and dec
 
 
 
-## Parks
+## Park
 
 [Why Are Parks Important?](http://www.brec.org/index.cfm/page/1808/n/153)
+
+
+## Zoo
+
+[6 Advantages and Disadvantages of Zoos](https://futureofworking.com/6-advantages-and-disadvantages-of-zoos/)
+
+
+
