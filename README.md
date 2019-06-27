@@ -77,3 +77,12 @@ The key is to integrate reading and listening parts:
 1. Main - grep the mains of reading (__skim!__) and listening
 2. Details - those in listening are more important than those in reading (must write out __details & conclusions in listening__)
 3. 
+
+---
+
+1. 考前用機經練習寫主題句：只要會寫主題句，考試時會增加很多信心，也會節省許多時間。由於考試時可能會出現一模一樣的題目，建議同學定期下載J2 TOEFL針對每次考試所整理的免費機經（臉書搜尋J2 TOEFL即可找到），用寫作小範圍的題目來練習寫主題句。
+2. Level 1, 2, 3各練習一篇作文：練習寫作文時，請從Level 1開始練習。簡單的文章會寫了之後，再挑戰Level 2,以及Level 3的文章。一樣可以從J2 TOEFL小範圍裡面挑出難的題目，試試看！由於考試通常都考比較難的題目，考前務必練習寫Level 2以及Level 3。
+3. 考前練習寫這兩類作文：考試時很可能會考以下這兩類作文，剛好也是同學比較不會寫的。因此，考前請挑出來特別練習：
+
+    1) 以前跟現在的比較：建議同學平常先想五個以前跟現在不同的層面，如：少子化、網路、社群網站、等。只要遇到以前跟現在比較類的題目，就可以固定寫你想過的理由。
+    2)三選一的題目：三選一也很常考，建議同學碰到這類的題目，三者都要在文章中提到，會比較有說服力。
