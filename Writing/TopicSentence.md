@@ -1,3 +1,21 @@
+Words can be used in relationship:
+
+- is determined by
+- is related to
+- comes from
+- place emphasis on
+
+
+Words can be used in achievements:
+- can do
+- help sb. do
+- let sb. do
+- give opportunities to do
+- provide sb. with sth.
+- make sb. more conscious
+- can achieve the aim
+
+
 # Level 1 - Who + What
 
 > 1. Students should take many classes or just three to four classes in one
@@ -175,6 +193,203 @@ good for teacher: save a lot of effort
 1. First of all, it is better when students have a better understanding, and giving students grades based on many small assignments can achieve the goal.
 2. Secondly, it is better for teachers to regularly check students’ progress, and grading students on many small assignments can allow teachers to do so.
 3. Last, it is better for teachers to save efforts, and grading students on many small projects lets teachers save more efforts.
+
+
+> 12. Agree or disagree: Teachers were more appreciated and valued by the society in the past than today.
+
+```
+WHO: society nowadays
+ATTITUDE: appreciated and valued 
+WHAT: more or less
+
+society nowadays: salary, social status, respect -> agree
+```
+
+1. First of all, value is generally determined by social status, and nowadays teachers have lower social status.
+2. Second, value is usually related to salary, then theachers acquire lower salary these days.
+3. Last, appreciation comes from people's respect, and teachers receive less respect than in the past.
+
+
+> 13. Workers would be more satisfied if they have various kinds of work to do during workday instead of doing the same job all day long.
+
+```
+WHO: workers
+ATTITUDE: more satisfied
+WHAT: have various kinds of work or do the same job
+
+satisfied worker: success on job, save more effort, time with family -> doing the same job all day long
+```
+
+1. First of all, workers feel satisfied when they succeed on work, and doing the same job all day long is easier to succeed.
+2. Second, workers are more satisfied when they can save effort, and doing the same job all day long can save more effort.
+3. Last, workers will feel happier if they spend more time with family, doing the same job all day long allows them to spend more time with family.
+
+
+> 14. The more money people have, the more they should give it to the charity to help more people.
+
+```
+WHO: people
+PURPOSE: earn money
+WHAT: give it to charity
+
+Define why people earn money: prove themselves, care about others, reputation
+```
+
+1. First of all, people earn money in order to prove themselves, and giving money to the charity can allow them to do so.
+2. Second, people should care about other human beings, and giving money to the charity can make people express their concern.
+3. Last, people should place emphasis on reputation, and donating more money provides them with higher reputation.
+
+
+> 15. Agree or disagree: Athletes and entertainers can be good politicians.
+
+```
+WHO: politicians
+ATTITUDE: good
+WHAT: Athletes and entertainers 
+
+good politicians: good education background, understand citizen's issues well, political experiences -> disagree
+```
+
+1. First of all, good politicians need solid education barkground to deal with complicated issues, while athletes and entertainers generally don't have it.
+2. Second, good politicians should have enough political experiences to work, athletes and entertainers do not have this kind of experience however.
+3. Last, good politicians should understand citizen's well, but most athletes and entertainers are not related to regular society anymore.
+
+
+> 16. Do you agree or disagree: In the past, people were more interested in improving their neighborhood than they do now.
+
+in the past -> inconvenient transportation, unsafe, no high techniques = simple entertainment, people live closely
+```
+WHO: people
+ATTITUDE: interested
+WHAT: improving their neighborhood 
+
+people in the past-interested: safety, neighbor, entertainment
+```
+
+1. First of all, people in the past care about the safety problems, improving their neighborhood can make them more safe.
+2. Second, people in the past interact with their neighbors more, so it makes sense that they improved their neighborhood.
+3. Last, people in the past were interested in entertainment, and improving their neighborhood can provide them with more entertainment.
+
+
+> 17. The government is not educating people enough about the importance of living a balanced and healthy life style.
+
+```
+WHO: government
+ATTITUDE: importance
+WHAT: educating people about the importance of living a balanced and healthy life style
+
+disagree: 
+
+The government educates people a lot about the importance of living a balanced and healthy life style through the means of workshops, laws, and media. 
+```
+
+1. First, people are usually not aware of the importance of a balanced and healthy lifestyle and the government often holds workshops to make people more conscious.
+2. Secondly, people usually lead unhealthy habits, and the government makes laws to change the detrimental habits of the people.
+3. Third, people generally have unbalanced lifestyles, and the government often educate people about the importance of balanced lifestyles through media. marathon, soccer...
+
+
+> 18. The most important investment that can be made to the education of children aged four to seven is giving them a computer
+
+```
+WHO: children
+ATTITUDE: important
+WHAT: giving them a computer
+
+education of children aged four to seven-important: develop intersts, relax, good academic perfomance
+```
+
+> 19. The best way to improve quality of education is to increase the teachers’ salaries.
+
+```
+WHO: education
+ATTITUDE: best way
+PURPOSE: improve quality of education
+WHAT: increase the teachers’ salaries
+
+quality of education: good understanding, raise intersts, absorb more knowledge, more interaction in class, gain better grades
+
+raise intersts -> good understanding, active interaction in class, gain better grades => disagree
+```
+
+> 20. The most important thing people learnt is from families.
+
+```
+WHO: people
+ATTITUDE: most important
+WHAT: from families
+
+most important: love
+families: spend long time together, imitate, influence unconsciously
+```
+
+1. First of all, people need a long time to learn love, and families members spend a long time together.
+2. Secondly, people usually imitate others’ behavior to learn love, and they imitate their family members.
+3. Last, people are generally influenced unconsciously when it comes to learning the most important thing, and they are usually influenced unconsciously by their family members.
+
+> 21. The most important goal of education is to teach people how to educate themselves.
+
+```
+WHO: education
+ATTITUDE: most important
+WHAT: teach people how to educate themselves
+
+important-education: active learning, solve problems, critical thinking, develop interest
+```
+
+1. First of all, one important goal of education is to develop the ability to solve problems, and teaching people how to educate themselves can achieve the aim.
+2. Secondly, another vital goal in education is to develop critical thinking skills, and knowing how to educate themselves can allow people to do so.
+3. Last, it is important for people to develop interest, and learning how to educate themselves can make them more interested in learning.
+
+
+> 22. Is it as important for older people to study or learn new things as it is for younger people?
+
+```
+WHO: older people
+ATTITUDE: important
+WHAT: study or learn new things 
+
+older people-important: develop new interests, stay healthy, maintain social networks
+```
+
+> 23. The government has an open field. Do you think it’s better to build a garden for the community or to build a sports field for a high school?
+
+```
+WHO: government
+ATTITUDE: better
+WHAT: build a garden for the community or to build a sports field for a high school
+
+better for government: reputation, care about citizens, profit
+```
+
+1. First of all, the government cares about reputation, and building a garden for the community can raise its reputation.
+2. Secondly, the government focuses on its citizens, and building a garden can benefit its citizens.
+3. Last, the government places emphasis on profit, and building a garden in the community can create more profit. They enhance property values, increase municipal revenue, bring in homebuyers and workers, and attract retirees.
+
+[Benefits of park](http://www.brec.org/index.cfm/page/1808/n/153)
+
+
+
+# Level 3 - WHO + WHAT + (ATTITUDE/PURPOSE) + SITUATION
+請用情境去想理由。主題句裡面可以省略情境，但是例子一定要以情境為前提, 否則便離題。
+
+> 24. During the times of economic crisis, which of the following should the government spend less money on?
+>
+> -Education
+>
+> -Health Care
+>
+> -Support for unemployed
+
+```
+WHO: government
+SITUATION: During the times of economic crisis = less budget
+ATTITUDE: less important (less $)
+WHAT: spend less money on Education, Health Care, Support for unemployed
+
+government: maintain stability of society <- support for unemployed, promote echonomics growth <- education, health care is not that important during this times => health care
+```
+
+
 
 
 
