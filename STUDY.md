@@ -6,7 +6,9 @@
 
 
 ## Student
-creative, express themselves, have fun
+creative, have fun, 
+
+need to learn: express themselves, have fun, good time managment skills, independent, leading skills... 
 
 
 ## How do I study
