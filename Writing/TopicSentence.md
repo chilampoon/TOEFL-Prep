@@ -386,7 +386,10 @@ SITUATION: During the times of economic crisis = less budget
 ATTITUDE: less important (less $)
 WHAT: spend less money on Education, Health Care, Support for unemployed
 
-government: maintain stability of society <- support for unemployed, promote echonomics growth <- education, health care is not that important during this times => health care
+government: maintain stability of society <- support for unemployed, 
+promote echonomics growth <- education, 
+health care is not that important during this times 
+=> health care
 ```
 
 
