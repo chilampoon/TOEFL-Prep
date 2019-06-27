@@ -1,3 +1,18 @@
+# Comparison
+## Past vs Now
+
+#### Now
+- High technologies: smart phone, transportation (airplane, high-speed train), internet, AI (computer, robot)...
+- Social networks: through internet, mobile apps...
+- Economic Globalization
+- Environmental degradation
+- Sub-replacement fertility （少子化）
+
+#### Past
+the opposite of those in __now__
+
+
+
 ## Responsibility
 
 [Responsibility: Being a responsible person makes you feel good](https://blog.cognifit.com/responsibility/)
