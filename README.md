@@ -1,4 +1,4 @@
-# TOEFL-Speaking
+# Speaking
 
 Everday practicing:
 - [Daily Plan in Rachel's English Academy](https://www.rachelsenglishacademy.com/enrollments?collection_id=139464)
@@ -55,6 +55,14 @@ Q3- Q6則更應該注意回答content 的切題度、內文邏輯，結果往往
 
 
 [口說三～六題練習建議](http://sk2toefl.blogspot.com/p/blog-page_95.html)
+
+# Writing
+
+Word bank is necessary in writing as well.
+
+An article should contains three body paragraphs with three clear __topic sentences__ (= the edges in word bank).
+
+Then the explaination and examples in each paragraph are to prove the edge, which means the relationship between two node.
 
 
 
