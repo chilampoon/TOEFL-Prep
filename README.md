@@ -63,7 +63,7 @@ Word bank is necessary in writing as well.
 
 An article should contains three body paragraphs with three clear __topic sentences__ (= the edges in word bank).
 
-Then the explaination and examples in each paragraph are to prove the edge, which means the relationship between two node.
+Then the explaination and examples in each paragraph are to prove the edge, which means the relationship between two nodes.
 
 [寫作滿分的關鍵祕密Part 1：主題句](http://sk2toefl.blogspot.com/2013/12/part-1.html)
 
