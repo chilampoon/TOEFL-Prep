@@ -86,3 +86,10 @@ The key is to integrate reading and listening parts:
 
     1) 以前跟現在的比較：建議同學平常先想五個以前跟現在不同的層面，如：少子化、網路、社群網站、等。只要遇到以前跟現在比較類的題目，就可以固定寫你想過的理由。
     2) 三選一的題目：三選一也很常考，建議同學碰到這類的題目，三者都要在文章中提到，會比較有說服力。__要提到反例!!!__
+
+
+
+
+# Reading
+
+[階段式練習](https://sk2toefl.blogspot.com/p/sk2-rosa_14.html)
