@@ -4,6 +4,7 @@ Everday practicing:
 - [Daily Plan in Rachel's English Academy](https://www.rachelsenglishacademy.com/enrollments?collection_id=139464)
 - Speak English mentally using complete sentences
 - Practice using Audiable & the book
+- **Word Bank**
 - 3Qs each day
 
 
