@@ -95,4 +95,11 @@ The key is to integrate reading and listening parts:
 
 # Reading
 
+抓SVO, scan, skim -> practice each type of questions (internalize the steps) -> themes and structure -> TPO
+
 [階段式練習](https://sk2toefl.blogspot.com/p/sk2-rosa_14.html)
+
+
+# Listening
+
+[內化八大點](http://sk2toefl.blogspot.com/2016/02/blog-post.html)
