@@ -2,8 +2,10 @@
 
 Everday practicing:
 - [Daily Plan in Rachel's English Academy](https://www.rachelsenglishacademy.com/enrollments?collection_id=139464)
-- Speak out loud of articles
 - Speak English mentally using complete sentences
+- Practice using Audiable & the book
+- 3Qs each day
+
 
 
 ## How to develop and explain your answer
@@ -53,8 +55,8 @@ Q3- Q6則更應該注意回答content 的切題度、內文邏輯，結果往往
 只要最後的結果邏輯上能和概念連得起來，這題便切題了。
 
 
-
 [口說三～六題練習建議](http://sk2toefl.blogspot.com/p/blog-page_95.html)
+
 
 # Writing
 
