@@ -103,3 +103,5 @@ The key is to integrate reading and listening parts:
 # Listening
 
 [內化八大點](http://sk2toefl.blogspot.com/2016/02/blog-post.html)
+
+聽完之後自己先在筆記上預測圈考點→做題目→用不同顏色在筆記上圈出做對/做錯的題目，並在上面寫出屬於什麼類型→再一句一句重聽一遍，並重新做筆記→盡量再簡化」
